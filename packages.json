@@ -7829,5 +7829,17 @@
     "description": "C2nim helper to simplify and automate wrapping C libraries",
     "license": "MIT",
     "web": "https://github.com/genotrance/nimgen"
+  },
+  {
+    "name": "skdds",
+    "url": "https://github.com/Skrylar/skdds",
+    "method": "git",
+    "tags": [
+      "dds",
+      "texture"
+    ],
+    "description": "Helper for reading Direct Draw Surfaces, the standard for texture files.",
+    "license": "MIT",
+    "web": "https://github.com/Skrylar/skdds"
   }
 ]
